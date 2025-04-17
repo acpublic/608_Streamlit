@@ -1,5 +1,6 @@
 ## Streamlit
-https://docs.streamlit.io/
+- https://docs.streamlit.io/
+- https://github.com/streamlit/streamlit
 ### インストール
 ```
 pip install streamlit
